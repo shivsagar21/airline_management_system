@@ -1,0 +1,94 @@
+.top-content1{
+    width: 100%;
+    height: 730px;
+    position: relative;
+    background-image: url(./assets/img/dashboard.jpg);
+    background-size:cover;
+   
+}
+.form1-box {
+    margin-top: 50px;
+}
+
+.form1-top {
+    overflow: hidden;
+    padding: 0 25px 15px 25px;
+    background: #444;
+    background: rgba(0, 0, 0, 0.35);
+    -moz-border-radius: 4px 4px 0 0;
+    -webkit-border-radius: 4px 4px 0 0;
+    border-radius: 4px 4px 0 0;
+    text-align: left;
+}
+
+.form1-top-left {
+    float: left;
+    width: 75%;
+    padding-top: 25px;
+}
+
+.form1-top-left h2 {
+    margin-top: 13px;
+    color: #fff;
+}
+
+.form1-top-left p {
+    opacity: 0.8;
+    color: #fff;
+}
+
+.form1-top-right {
+    float: left;
+    width: 25%;
+    padding-top: 5px;
+    font-size: 66px;
+    color: #fff;
+    line-height: 100px;
+    text-align: right;
+    opacity: 0.5;
+}
+
+.form1-bottom {
+    padding: 25px 25px 30px 25px;
+    background: #444;
+    background: rgba(0, 0, 0, 0.3);
+    -moz-border-radius: 0 0 4px 4px;
+    -webkit-border-radius: 0 0 4px 4px;
+    border-radius: 0 0 4px 4px;
+    text-align: left;
+}
+
+.form1-bottom form textarea {
+    height: 100px;
+}
+
+.form1-bottom form button.btn {
+    width: 100%;
+}
+
+.form1-bottom form .input-error {
+    border-color: #19b9e7;
+}
+.ab{
+    width: 96%;
+    margin-top: 30px;
+}
+
+ table {
+    height: 100px;
+    border-collapse: collapse;
+    width:100%;
+    text-align: center;
+    color: #fff;
+}
+
+
+th {
+    border-bottom: 1px solid black;
+    border: 4px solid black;
+    height: 70px;
+}
+tr td input {
+    text-align: center;
+    
+}
